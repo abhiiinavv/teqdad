@@ -11,7 +11,7 @@ Version: 1.0.0
   --body: #fff;
   --black: #000;
   --white: #fff;
-  --theme: #384BFF;
+  --theme: #15a4dc;
   --theme2: #384BFF;
   --header: #0F0D1D;
   --text: #585858;
@@ -267,9 +267,9 @@ span {
   z-index: 9;
 }
 .about-wrapper .about-image-items .video-box .video-buttton {
-  width: 142px;
-  height: 142px;
-  line-height: 142px;
+  width: 80px;
+  height: 80px;
+  line-height: 80px;
   text-align: center;
   border-radius: 50%;
   background-color: var(--theme);
@@ -1434,7 +1434,7 @@ span {
 }
 @media (max-width: 1399px) {
   .cta-wrapper .cta-items {
-    margin-left: 350px;
+    margin-left: 360px;
   }
 }
 @media (max-width: 1199px) {
@@ -4178,6 +4178,7 @@ span {
   align-items: center;
   gap: 30px;
   margin-top: 50px;
+  margin-bottom: 40px;
 }
 @media (max-width: 767px) {
   .hero-1 .hero-content .hero-button {
